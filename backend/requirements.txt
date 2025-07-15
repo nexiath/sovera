@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+psycopg2-binary
+asyncpg
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+pydantic-settings
+tenacity
+minio
+psutil
+python-multipart
+strawberry-graphql[fastapi]
+pyjwt
